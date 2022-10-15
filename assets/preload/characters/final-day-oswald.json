@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				236
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "OSWALD IDLE"
+		},
+		{
+			"offsets": [
+				48,
+				302
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Oswald Left"
+		},
+		{
+			"offsets": [
+				18,
+				417
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Oswald Down"
+		},
+		{
+			"offsets": [
+				31,
+				226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "OSWALD RIGHT"
+		},
+		{
+			"offsets": [
+				-123,
+				252
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Oswald Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/final-day",
+	"position": [
+		-170,
+		300
+	],
+	"healthicon": "lastday",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		20,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
