@@ -1,10 +1,1 @@
-{	
-	"titlex":-150,
-	"titley":-100,
-	"startx":100,
-	"starty":576,
-	"gfx":512,
-	"gfy":40,
-	"backgroundSprite":"",
-	"bpm":102
-}
+{"backgroundSprite":"MickeySangre","bpm":102,"gfscale":1,"gfx":5120,"gfy":4000,"startscale":0.7,"startx":-550,"starty":0,"titlex":0,"titley":-700}
