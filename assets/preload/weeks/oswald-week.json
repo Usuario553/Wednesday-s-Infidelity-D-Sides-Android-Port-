@@ -1,0 +1,50 @@
+{
+	"storyName": "lucky rabbit...",
+	"difficulties": "D-Sides",
+	"weekBackground": "stage",
+	"hideFreeplay": false,
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"despair",
+			"wistfulness",
+			[
+				83,
+				86,
+				80
+			]
+		],
+		[
+			"despondency",
+			"dejection",
+			[
+				63,
+				66,
+				60
+			]
+		],
+		[
+			"untold loneliness",
+			"oswald",
+			[
+				43,
+				46,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "oswald"
+}
