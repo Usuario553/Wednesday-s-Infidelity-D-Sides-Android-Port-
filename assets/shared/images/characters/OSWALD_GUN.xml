@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OSWALD_GUN.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OSWALD GUN0000" x="2" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0001" x="2" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0002" x="1294" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0003" x="1294" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0004" x="2586" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0005" x="2586" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0006" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0007" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0008" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0009" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0010" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0011" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0012" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0013" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0014" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0015" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0016" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0017" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0018" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0019" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0020" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0021" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0022" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0023" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0024" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0025" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0026" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0027" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0028" x="3878" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0029" x="5170" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0030" x="6462" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0031" x="6462" y="2" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0032" x="2" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0033" x="1294" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0034" x="2586" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0035" x="2586" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0036" x="3878" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0037" x="3878" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0038" x="3878" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0039" x="3878" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0040" x="3878" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0041" x="3878" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0042" x="3878" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0043" x="3878" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0044" x="3878" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0045" x="5170" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0046" x="5170" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0047" x="6462" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0048" x="6462" y="738" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0049" x="2" y="1474" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0050" x="2" y="1474" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0051" x="1294" y="1474" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0052" x="1294" y="1474" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0053" x="2586" y="1474" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0054" x="2586" y="1474" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0055" x="3878" y="1474" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0056" x="3878" y="1474" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0057" x="5170" y="1474" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0058" x="5170" y="1474" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0059" x="6462" y="1474" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0060" x="6462" y="1474" width="1287" height="731"/>
+	<SubTexture name="OSWALD GUN0061" x="6462" y="1474" width="1287" height="731"/>
+</TextureAtlas>
